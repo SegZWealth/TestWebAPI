@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\TestWebAPI\TestWebAPI.InfrastructureLayer\bin\Debug\net7.0\TestWebAPI.InfrastructureLayer.deps.json
+C:\Users\HP\source\repos\TestWebAPI\TestWebAPI.InfrastructureLayer\bin\Debug\net7.0\TestWebAPI.InfrastructureLayer.dll
+C:\Users\HP\source\repos\TestWebAPI\TestWebAPI.InfrastructureLayer\bin\Debug\net7.0\TestWebAPI.InfrastructureLayer.pdb
+C:\Users\HP\source\repos\TestWebAPI\TestWebAPI.InfrastructureLayer\bin\Debug\net7.0\TestWebAPI.BusinessLayer.dll
+C:\Users\HP\source\repos\TestWebAPI\TestWebAPI.InfrastructureLayer\bin\Debug\net7.0\TestWebAPI.BusinessLayer.pdb
+C:\Users\HP\source\repos\TestWebAPI\TestWebAPI.InfrastructureLayer\obj\Debug\net7.0\TestWebAPI.InfrastructureLayer.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\TestWebAPI\TestWebAPI.InfrastructureLayer\obj\Debug\net7.0\TestWebAPI.InfrastructureLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\TestWebAPI\TestWebAPI.InfrastructureLayer\obj\Debug\net7.0\TestWebAPI.InfrastructureLayer.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\TestWebAPI\TestWebAPI.InfrastructureLayer\obj\Debug\net7.0\TestWebAPI.InfrastructureLayer.AssemblyInfo.cs
+C:\Users\HP\source\repos\TestWebAPI\TestWebAPI.InfrastructureLayer\obj\Debug\net7.0\TestWebAPI.InfrastructureLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TestWebAPI\TestWebAPI.InfrastructureLayer\obj\Debug\net7.0\TestWebAPI.InfrastructureLayer.csproj.CopyComplete
+C:\Users\HP\source\repos\TestWebAPI\TestWebAPI.InfrastructureLayer\obj\Debug\net7.0\TestWebAPI.InfrastructureLayer.dll
+C:\Users\HP\source\repos\TestWebAPI\TestWebAPI.InfrastructureLayer\obj\Debug\net7.0\refint\TestWebAPI.InfrastructureLayer.dll
+C:\Users\HP\source\repos\TestWebAPI\TestWebAPI.InfrastructureLayer\obj\Debug\net7.0\TestWebAPI.InfrastructureLayer.pdb
+C:\Users\HP\source\repos\TestWebAPI\TestWebAPI.InfrastructureLayer\obj\Debug\net7.0\ref\TestWebAPI.InfrastructureLayer.dll

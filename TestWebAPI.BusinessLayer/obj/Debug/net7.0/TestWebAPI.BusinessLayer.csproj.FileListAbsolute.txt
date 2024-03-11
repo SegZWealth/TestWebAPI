@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\TestWebAPI\TestWebAPI.BusinessLayer\bin\Debug\net7.0\TestWebAPI.BusinessLayer.deps.json
+C:\Users\HP\source\repos\TestWebAPI\TestWebAPI.BusinessLayer\bin\Debug\net7.0\TestWebAPI.BusinessLayer.dll
+C:\Users\HP\source\repos\TestWebAPI\TestWebAPI.BusinessLayer\bin\Debug\net7.0\TestWebAPI.BusinessLayer.pdb
+C:\Users\HP\source\repos\TestWebAPI\TestWebAPI.BusinessLayer\obj\Debug\net7.0\TestWebAPI.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\TestWebAPI\TestWebAPI.BusinessLayer\obj\Debug\net7.0\TestWebAPI.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\TestWebAPI\TestWebAPI.BusinessLayer\obj\Debug\net7.0\TestWebAPI.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\TestWebAPI\TestWebAPI.BusinessLayer\obj\Debug\net7.0\TestWebAPI.BusinessLayer.AssemblyInfo.cs
+C:\Users\HP\source\repos\TestWebAPI\TestWebAPI.BusinessLayer\obj\Debug\net7.0\TestWebAPI.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TestWebAPI\TestWebAPI.BusinessLayer\obj\Debug\net7.0\TestWebAPI.BusinessLayer.dll
+C:\Users\HP\source\repos\TestWebAPI\TestWebAPI.BusinessLayer\obj\Debug\net7.0\refint\TestWebAPI.BusinessLayer.dll
+C:\Users\HP\source\repos\TestWebAPI\TestWebAPI.BusinessLayer\obj\Debug\net7.0\TestWebAPI.BusinessLayer.pdb
+C:\Users\HP\source\repos\TestWebAPI\TestWebAPI.BusinessLayer\obj\Debug\net7.0\ref\TestWebAPI.BusinessLayer.dll
